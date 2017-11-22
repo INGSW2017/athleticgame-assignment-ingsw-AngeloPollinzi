@@ -15,6 +15,7 @@ public class AthleticGame {
 		super();
 		this.sport = sport;
 		arrivals = new HashMap<>();
+		System.out.println("commento");
 	}
 
 	public String getSport() {
